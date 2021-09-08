@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[9]:
-
-
 n= int(input("please enter n numbers:"))
 n1=0
 n2=1
@@ -38,9 +32,6 @@ print(f"count of even:{counteven}")
 print(list2)
 print(oddlist)
 print(evenlist)
-
-
-# In[ ]:
 
 
 
